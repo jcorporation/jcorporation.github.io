@@ -4,7 +4,7 @@
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
-    <link href="/myMPD/assets/MaterialIcons-Regular.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="{{ site.baseurl }}/assets/MaterialIcons-Regular.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
 
   </head>
@@ -14,10 +14,10 @@
       <div class="container">
         <header class="masthead clearfix">
           <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/"><span class="material-icons logo">play_circle_outline</span> {{ site.name }}</a></h1>
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
           </div>
           <nav>
-            <a href="{{ site.baseurl }}/">myMPD</a>
+            <a href="{{ site.baseurl }}/mympd">myMPD</a>
             <a href="{{ site.baseurl }}/mympdos">myMPDos</a>
             <a href="{{ site.baseurl }}/mygpiod">myGPIOd</a>
           </nav>

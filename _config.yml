@@ -1,7 +1,6 @@
-name: myMPD
-description: a standalone and mobile friendly web mpdclient
-avatar: https://raw.githubusercontent.com/jcorporation/myMPD/gh-pages/images/mympd.svg
+name: jcorporation.github.io
+description: a homepage for my opensource projects
 
 footer-links:
   email: mail@jcgames.de
-  github: jcorporation/mympd
+  github: jcorporation
