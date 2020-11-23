@@ -4,7 +4,7 @@ title: Donate
 permalink: /donate
 ---
 
-myMPD is a small hobby project of mine. I only work on it in my spare time, so any help is welcome.
+myMPD, myGPIOd and myMPDos are small hobby projects of mine. I only work on it in my spare time, so any help is welcome.
 
 You can donate to the myMPD project per PayPal.
 
