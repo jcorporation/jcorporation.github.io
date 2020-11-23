@@ -1,0 +1,7 @@
+name: myMPD
+description: a standalone and mobile friendly web mpdclient
+avatar: https://raw.githubusercontent.com/jcorporation/myMPD/gh-pages/images/mympd.svg
+
+footer-links:
+  email: mail@jcgames.de
+  github: jcorporation/mympd
