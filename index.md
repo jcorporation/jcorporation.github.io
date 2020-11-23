@@ -15,7 +15,7 @@ myMPD is a standalone and lightweight web-based MPD client. It's tuned for minim
 
 myGPIOd is a small daemon to call scripts on GPIO events.
 
-- [myGPIOd]/mygpiod)
+- [myGPIOd](/mygpiod)
 
 # myMPDos
 
