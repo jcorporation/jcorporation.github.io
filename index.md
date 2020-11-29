@@ -5,6 +5,8 @@ permalink: /
 
 This is an overview of my opensource projects arround [MPD](https://www.musicpd.org/).
 
+<hr/>
+
 ![image](https://jcorporation.github.io/assets/mympd-logo-schriftzug.svg)
 
 myMPD is a standalone and lightweight web-based MPD client. It's tuned for minimal resource usage and requires only very few dependencies.
