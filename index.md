@@ -11,15 +11,16 @@ This is an overview of my opensource projects arround [MPD](https://www.musicpd.
 
 myMPD is a standalone and lightweight web-based MPD client. It's tuned for minimal resource usage and requires only very few dependencies.
 
-- [myMPD](https://github.com/jcorporation/myMPD)
+- [Repository](https://github.com/jcorporation/myMPD)
+- [Documentation](https://github.com/jcorporation/myMPD/wiki)
 
 <hr/>
 
 # myGPIOd
 
-myGPIOd is a small daemon to call scripts on GPIO events.
+myGPIOd is a small daemon written in C to call scripts on GPIO events.
 
-- [myGPIOd](https://github.com/jcorporation/myGPIOd)
+- [Repository](https://github.com/jcorporation/myGPIOd)
 
 <hr />
 
@@ -27,4 +28,5 @@ myGPIOd is a small daemon to call scripts on GPIO events.
 
 myMPDos is a Raspberry Pi image (aarch64) based on Alpine Linux. It combines MPD with myMPD and myGPIOd.
 
-- [myMPDos](https://github.com/jcorporation/myMPDos)
+- [Repository](https://github.com/jcorporation/myMPDos)
+- [Documentation](https://github.com/jcorporation/myMPDos/wiki)
