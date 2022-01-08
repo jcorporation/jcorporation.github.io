@@ -16,6 +16,15 @@ myMPD is a standalone and lightweight web-based MPD client. It's tuned for minim
 
 <hr/>
 
+# WebradioDB
+
+WebradioDB is my attempt to create a curated webradio list for myMPD.
+
+- [Repository](https://github.com/jcorporation/webradiodb)
+- [Homepage](https://jcorporation.github.io/webradiodb/)
+
+<hr/>
+
 # myGPIOd
 
 myGPIOd is a small daemon written in C to call scripts on GPIO events.
