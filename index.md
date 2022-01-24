@@ -12,7 +12,7 @@ This is an overview of my opensource projects arround [MPD](https://www.musicpd.
 myMPD is a standalone and lightweight web-based MPD client. It's tuned for minimal resource usage and requires only very few dependencies.
 
 - [Repository](https://github.com/jcorporation/myMPD)
-- [Documentation](https://github.com/jcorporation/myMPD/wiki)
+- [Documentation](https://jcorporation.github.io/myMPD/)
 
 <hr/>
 
