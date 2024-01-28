@@ -27,7 +27,7 @@ WebradioDB is my attempt to create a curated webradio list for myMPD.
 
 # myGPIOd
 
-myGPIOd is a small daemon written in C to call scripts on GPIO events.
+myGPIOd is a lightweight GPIO controlling framework.
 
 - [Repository](https://github.com/jcorporation/myGPIOd)
 
