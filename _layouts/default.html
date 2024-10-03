@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
-    {% include meta.html %}
-    <link href="{{ site.baseurl }}/assets/MaterialIcons-Regular.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css"/>
   </head>
-
   <body>
     <div class="wrapper-masthead">
       <div class="container">
@@ -16,19 +13,11 @@
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
           </div>
-<!--          <nav>
-            <a href="{{ site.baseurl }}/mympd">myMPD</a>
-            <a href="{{ site.baseurl }}/mympdos">myMPDos</a>
-            <a href="{{ site.baseurl }}/mygpiod">myGPIOd</a>
-          </nav>
--->
         </header>
       </div>
     </div>
-
-    <div id="main" role="main" class="container">
+    <main class="container">
       {{ content }}
-    </div>
-
+    </main>
   </body>
 </html>

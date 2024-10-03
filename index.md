@@ -1,5 +1,6 @@
 ---
 layout: page
+title: juergenmang.de
 permalink: /
 ---
 

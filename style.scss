@@ -7,7 +7,6 @@
 
 @import "reset";
 @import "variables";
-// Syntax highlighting @import is at the bottom of this file
 
 /**************/
 /* BASE RULES */
@@ -30,36 +29,6 @@ body {
   width: 100%;
 }
 
-@font-face {
-  font-family: 'Material Icons';
-  font-style: normal;
-  font-weight: 400;
-  src: url(/myMPD/assets/MaterialIcons-Regular.woff2) format('woff2');
-}
-
-.material-icons {
-  font-family: 'Material Icons';
-  font-weight: normal;
-  font-style: normal;
-  font-size: 1.4rem;  /* Preferred icon size */
-  display:inline-block;
-  line-height: 1;
-  text-transform: none;
-  letter-spacing: normal;
-  word-wrap: normal;
-  white-space: nowrap;
-  direction: ltr;
-  vertical-align: top;
-  /* Support for all WebKit browsers. */
-  -webkit-font-smoothing: antialiased;
-  /* Support for Safari and Chrome. */
-  text-rendering: optimizeLegibility;
-  /* Support for Firefox. */
-  -moz-osx-font-smoothing: grayscale;
-  /* Support for IE. */
-  font-feature-settings: 'liga';
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
@@ -76,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  color: $blue;
+  color: $accentColor;
   a {
     color: inherit;
     vertical-align: middle;
@@ -104,11 +73,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $accentColor;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $accentColor;
   }
 }
 
@@ -200,11 +169,6 @@ img {
     margin: 0 auto;
 }
 
-.logo {
-  font-size: 45px;
-  vertical-align: middle;
-}
-
 .site-name {
   margin-left: -4px;
   margin-bottom: 10px;
@@ -218,96 +182,6 @@ img {
   border-bottom: none;
 }
 
-#forkme_banner {
-  display: block;
-  color: #fff;
-  background: url("/myMPD/assets/blacktocat.png") $blue no-repeat 95% 50%;
-  box-shadow: 0 0 10px rgba(0,0,0,0.5);
-  border-radius: 2px;
-  font-size: 14px;
-  font-weight: 700;
-  width: 180px;
-  padding: 10px;
-}
-
-nav {
-  font-family: $helveticaNeue;
-  margin-top: 20px;
-  display: block;
-  font-size: 16px;
-
-  a {
-    margin-right: 20px;
-    color: #f8f9fa;
-    font-weight: 300;
-    letter-spacing: 1px;
-  }
-}
-
-#main {
+main {
   min-height: calc(100vh - 298px);
-}
-
-//
-// .main
-//
-
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
-}
-
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
-  small {
-    font-size: 15px;
-    color: $gray
-  }
-}
-
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: #343A40;
-  color: #f8f9fa
-}
-
-footer {
-  padding: 20px 0;
-  text-align: center;
-  font-size: 16px;
-  a {
-    color: #f8f9fa;	  
-  }
-}
-
-code {
-  padding: .2em .4em;
-  margin: 0;
-  font-size: 85%;
-  background-color: rgba(27,31,35,.05);
-  border-radius: 3px;
-  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
 }
