@@ -7,14 +7,20 @@ permalink: /
 <div class="card mb-3">
 <div class="card-header text-light"><span class="bi-house me-2"></span>Welcome to my personal homepage</div>
 <div class="card-body">
-<p>You can find me also on:</p>
+<p>I am a passionated software developer and Linux user located in the south of germany.</p>
+<p>In my leisure time, I contribute to and maintain various OpenSource software projects.</p>
+<p>I am working as IT-Security consultant, securing web applications and designing CI/CD environments for automated F5 ADC operation.</p>
+<p>You can find me also at:</p>
 <ul>
+<li><a href="https://mastodon.social/@jcorporation" rel="me"><span class="bi-mastodon me-2"></span>mastodon</a></li>
 <li><a href="https://www.linkedin.com/in/j%C3%BCrgen-mang-745181b4/" rel="me"><span class="bi-linkedin me-2"></span>LinkedIn</a></li>
 <li><a href="https://github.com/jcorporation" rel="me"><span class="bi-github me-2"></span>GitHub &ndash; Private projects</a></li>
 <li><a href="https://github.com/JuergenMang/" rel="me"><span class="bi-github me-2"></span>GitHub &ndash; F5 related</a></li>
 <li><a href="https://libre.fm/user/jcorporation" rel="me">Libre.fm</a></li>
 </ul>
-<p>If you like one of my projects you can <a href="{{ site.url }}/donate">donate</a> a <span class="bi-cup-hot"></span> coffee to me.</p>
+</div>
+<div class="card-footer">
+If you like one of my personal projects you can <a href="{{ site.url }}/donate">donate</a> a <span class="bi-cup-hot"></span> coffee to me.
 </div>
 </div>
 
@@ -48,6 +54,9 @@ permalink: /
 </ul>
 
 </div>
+<div class="card-footer">
+And many <a href="https://github.com/jcorporation?tab=repositories">more</a>.
+</div>
 </div>
 
 <div class="card mb-3">
@@ -71,5 +80,8 @@ permalink: /
 <ul>
 <li><a href="https://dasweltenbuch.jcgames.de">Das Weltenbuch</a></li>
 </ul>
+</div>
+<div class="card-footer">
+<a href="https://jcgames.de">jcgames</a>
 </div>
 </div>
