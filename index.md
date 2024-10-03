@@ -12,7 +12,7 @@ permalink: /
 <p>I am working as IT-Security consultant, securing web applications and designing CI/CD environments for automated F5 ADC operation.</p>
 <p>You can find me also at:</p>
 <ul>
-<li><a href="https://discordapp.com/users/932736909476773919"><span class="bi-discord me-2"></span>Discord</a>
+<li><a href="https://discordapp.com/users/932736909476773919"><span class="bi-discord me-2"></span>Discord</a></li>
 <li><a href="https://community.f5.com/users/juergen_mang/126518">F5 DevCentral</a></li>
 <li><a href="https://github.com/jcorporation" rel="me"><span class="bi-github me-2"></span>GitHub &ndash; Private projects</a></li>
 <li><a href="https://github.com/JuergenMang/" rel="me"><span class="bi-github me-2"></span>GitHub &ndash; F5 related</a></li>
