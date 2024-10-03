@@ -14,6 +14,7 @@ permalink: /
 <li><a href="https://github.com/JuergenMang/" rel="me"><span class="bi-github me-2"></span>GitHub &ndash; F5 related</a></li>
 <li><a href="https://libre.fm/user/jcorporation" rel="me">Libre.fm</a></li>
 </ul>
+<p>If you like one of my projects you can <a href="{{ site.url }}/donate">donate</a> a <span class="bi-cup-hot"></span> coffee to me.</p>
 </div>
 </div>
 
