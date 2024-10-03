@@ -12,11 +12,12 @@ permalink: /
 <p>I am working as IT-Security consultant, securing web applications and designing CI/CD environments for automated F5 ADC operation.</p>
 <p>You can find me also at:</p>
 <ul>
-<li><a href="https://mastodon.social/@jcorporation" rel="me"><span class="bi-mastodon me-2"></span>mastodon</a></li>
-<li><a href="https://www.linkedin.com/in/j%C3%BCrgen-mang-745181b4/" rel="me"><span class="bi-linkedin me-2"></span>LinkedIn</a></li>
+<li><a href="https://community.f5.com/users/juergen_mang/126518">F5 DevCentral</a></li>
 <li><a href="https://github.com/jcorporation" rel="me"><span class="bi-github me-2"></span>GitHub &ndash; Private projects</a></li>
 <li><a href="https://github.com/JuergenMang/" rel="me"><span class="bi-github me-2"></span>GitHub &ndash; F5 related</a></li>
 <li><a href="https://libre.fm/user/jcorporation" rel="me">Libre.fm</a></li>
+<li><a href="https://www.linkedin.com/in/j%C3%BCrgen-mang-745181b4/" rel="me"><span class="bi-linkedin me-2"></span>LinkedIn</a></li>
+<li><a href="https://mastodon.social/@jcorporation" rel="me"><span class="bi-mastodon me-2"></span>mastodon</a></li>
 </ul>
 </div>
 <div class="card-footer">
