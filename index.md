@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div class="card mb-3">
-<div class="card-header text-light"><span class="bi-house me-2"></span>Welcome to my personal homepage</div>
+<div class="card-header"><span class="bi-house me-2"></span>Welcome to my personal homepage</div>
 <div class="card-body">
 <p>I am a passionated software developer and Linux user located in the south of germany.</p>
 <p>In my leisure time, I contribute to and maintain various OpenSource software projects.</p>
@@ -26,7 +26,7 @@ If you like one of my personal projects you can <a href="{{ site.url }}/donate">
 </div>
 
 <div class="card mb-3">
-<div class="card-header text-light"><span class="bi-code-square me-2"></span>OpenSource Projects</div>
+<div class="card-header"><span class="bi-code-square me-2"></span>OpenSource Projects</div>
 <div class="card-body">
 <p>In my free time I write code to support the <a href="https://www.musicpd.org/">MPD</a> ecosystem. I contribute directly to <a href="https://github.com/MusicPlayerDaemon/MPD">mpd</a> and <a href="https://github.com/MusicPlayerDaemon/libmpdclient">libmpdclient</a> and maintain my own software projects.</p>
 
@@ -61,7 +61,7 @@ And many <a href="https://github.com/jcorporation?tab=repositories">more</a>.
 </div>
 
 <div class="card mb-3">
-<div class="card-header text-light"><span class="bi-book me-2"></span>Pen-And-Paper Roleplaying Games</div>
+<div class="card-header"><span class="bi-book me-2"></span>Pen-And-Paper Roleplaying Games</div>
 <div class="card-body">
 <p>All these games are written in german language and are <a href="http://creativecommons.org/licenses/by-sa/4.0/"><span class="bi-cc-circle"></span> BY-SA</a> licensed.</p>
 <h5 class="card-title">SpacePirates</h5>

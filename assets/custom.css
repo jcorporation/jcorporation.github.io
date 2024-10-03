@@ -2,6 +2,25 @@
     font-size: 200%;
 }
 
-.card-header {
-    background-color: #5f8dd3;
+/* light theme */
+[data-bs-theme="light"] header {
+    background-color: var(--bs-gray-300);
+}
+
+/* dark theme */
+[data-bs-theme="dark"] header,
+[data-bs-theme="dark"] .card-header {
+    background-color: #000000;
+}
+
+[data-bs-theme="dark"] a,
+[data-bs-theme="dark"] a:visited,
+[data-bs-theme="dark"] a:hover,
+[data-bs-theme="dark"] a:active {
+    color: #aaa;
+}
+
+[data-bs-theme="dark"] a:hover {
+    color: white;
+    text-decoration: none;
 }
