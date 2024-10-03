@@ -84,6 +84,6 @@ And many <a href="https://github.com/jcorporation?tab=repositories">more</a>.
 </ul>
 </div>
 <div class="card-footer">
-<a href="https://jcgames.de">jcgames</a>
+<a href="https://jcgames.de">jcgames</a><span class="mx-3">|</span><a href="https://www.tanelorn.net/index.php/board,367.0.html">Tanelorn</a>
 </div>
 </div>
