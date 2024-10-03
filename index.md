@@ -5,21 +5,20 @@ permalink: /
 ---
 
 <div class="card mb-3">
-<div class="card-header text-light">Welcome on my personal homepage</div>
+<div class="card-header text-light"><span class="bi-house me-2"></span>Welcome to my personal homepage</div>
 <div class="card-body">
 <p>You can find me also on:</p>
 <ul>
-<li><a href="https://www.linkedin.com/in/j%C3%BCrgen-mang-745181b4/" rel="me">LinkedIn</a></li>
-<li><a href="https://github.com/jcorporation" rel="me">GitHub &ndash; private projects</a></li>
-<li><a href="https://github.com/JuergenMang/" rel="me">GitHub &ndash; F5 related</a></li>
+<li><a href="https://www.linkedin.com/in/j%C3%BCrgen-mang-745181b4/" rel="me"><span class="bi-linkedin me-2"></span>LinkedIn</a></li>
+<li><a href="https://github.com/jcorporation" rel="me"><span class="bi-github me-2"></span>GitHub &ndash; Private projects</a></li>
+<li><a href="https://github.com/JuergenMang/" rel="me"><span class="bi-github me-2"></span>GitHub &ndash; F5 related</a></li>
 <li><a href="https://libre.fm/user/jcorporation" rel="me">Libre.fm</a></li>
 </ul>
-<p>If you like one of my projects you can <a href="{{ site.url }}/donate">donate</a> a coffee to me.</p>
 </div>
 </div>
 
 <div class="card mb-3">
-<div class="card-header text-light">OpenSource Projects</div>
+<div class="card-header text-light"><span class="bi-code-square me-2"></span>OpenSource Projects</div>
 <div class="card-body">
 <p>In my free time I write code to support the <a href="https://www.musicpd.org/">MPD</a> ecosystem. I contribute directly to mpd and libmpdclient and maintain my own software projects.</p>
 
@@ -51,7 +50,7 @@ permalink: /
 </div>
 
 <div class="card mb-3">
-<div class="card-header text-light">Pen-And-Paper Roleplaying Games</div>
+<div class="card-header text-light"><span class="bi-book me-2"></span>Pen-And-Paper Roleplaying Games</div>
 <div class="card-body">
 <p>All these games are written in german language and are Creative Commons BY-SA licensed.</p>
 <h5 class="card-title">SpacePirates</h5>
