@@ -1,10 +1,20 @@
----
-layout: default
-title: juergenmang.de
-permalink: /
----
-
-<div class="card mb-3">
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>juergenmang.de</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+    <link rel="stylesheet" type="text/css" href="/assets/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="/assets/custom.css"/>
+  </head>
+  <body>
+    <header class="bg-dark navbar navbar-expand-lg sticky-top">
+      <nav class="container-xl">
+        <a class="navbar-brand link-light" href="/">juergenmang.de</a>
+      </nav>
+    </header>
+    <main class="container-xl mt-3">
+      <div class="card mb-3">
 <div class="card-header text-light">Welcome to my personal homepage</div>
 <div class="card-body">
 <p>You can find me also on:</p>
@@ -13,7 +23,7 @@ permalink: /
 <li><a href="https://github.com/jcorporation" rel="me">GitHub &ndash; private projects</a></li>
 <li><a href="https://github.com/JuergenMang/" rel="me">GitHub &ndash; F5 related</a></li>
 </ul>
-<p>If you like one of my projects you can <a href="{{ site.url }}/donate">donate</a> a coffee to me.</p>
+<p>If you like one of my projects you can <a href="http://localhost:4000/donate">donate</a> a coffee to me.</p>
 </div>
 </div>
 
@@ -72,3 +82,7 @@ permalink: /
 </ul>
 </div>
 </div>
+
+    </main>
+  </body>
+</html>
