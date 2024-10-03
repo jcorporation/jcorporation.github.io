@@ -5,13 +5,14 @@ permalink: /
 ---
 
 <div class="card mb-3">
-<div class="card-header text-light">Welcome to my personal homepage</div>
+<div class="card-header text-light">Welcome on my personal homepage</div>
 <div class="card-body">
 <p>You can find me also on:</p>
 <ul>
 <li><a href="https://www.linkedin.com/in/j%C3%BCrgen-mang-745181b4/" rel="me">LinkedIn</a></li>
 <li><a href="https://github.com/jcorporation" rel="me">GitHub &ndash; private projects</a></li>
 <li><a href="https://github.com/JuergenMang/" rel="me">GitHub &ndash; F5 related</a></li>
+<li><a href="https://libre.fm/user/jcorporation" rel="me">Libre.fm</a></li>
 </ul>
 <p>If you like one of my projects you can <a href="{{ site.url }}/donate">donate</a> a coffee to me.</p>
 </div>
@@ -31,7 +32,7 @@ permalink: /
 <h5 class="card-title">WebradioDB</h5>
 <p>Community driven webradio database for myMPD.</p>
 <ul>
-<li><a href="https://juergenmang.de/webradiodb/">WebradioDB</a></li>
+<li><a href="https://jcorporation.github.io/webradiodb/">WebradioDB</a></li>
 </ul>
 
 <h5 class="card-title">myGPIOd</h5>
